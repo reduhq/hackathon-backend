@@ -1,1 +1,1 @@
-# Hackathon 2023 - Backend
+# Hackathon 2023 - Nicaragua | Backend (REST API)
